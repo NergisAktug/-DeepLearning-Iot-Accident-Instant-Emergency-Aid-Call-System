@@ -1,5 +1,5 @@
 # KazaAniAcilYardimCagriSistemi
-ACCIDENT INSTANT EMERGENCY AID CALL SYSTEM
+ACCIDENT INSTANT EMERGENCY AID CALL SYSTEM (KazaAniAcilYardimCagriSistemi)
 The aim of the project is to make an emergency call system at the time of accident using FasterRCNN(Region Based Convolutional Networks), GPS(Global Positioning System) and GSM(Global
 System for Mobile Communications) technologies.
 The first stage of this multi-stage project is as follows;Analysis of still images can be performed using
