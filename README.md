@@ -21,3 +21,4 @@ is aimed to determine the location information according to the data received fr
 through the GPS Module and to send them to the phone of the predefined persons as SMS using the
 GSM Module.Thus, it is predicted that the casualties will decrease with early intervention to the
 victims.
+
