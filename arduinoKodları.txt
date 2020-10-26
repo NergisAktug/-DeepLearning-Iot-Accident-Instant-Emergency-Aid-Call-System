@@ -1,5 +1,4 @@
-//Kapadokya GSM Shield : http://bit.ly/GSMshield
-//İnceleme ve proje videosu: https://youtu.be/zijlJ2-lzhg
+
 
 #include <KapadokyaGSM.h>
 KapadokyaGSM Kapadokya;
